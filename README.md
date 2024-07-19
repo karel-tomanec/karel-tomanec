@@ -5,12 +5,12 @@ I'm a passionate graphics programmer with a special interest in ray tracing. I t
 ### My Primary Toolchain :hammer_and_wrench:
 
 <div style="display: flex; align-items: center;">
-    <img src="images/cpp-logo.svg" alt="C++" width="50"/>
-    <img src="images/vulkan-logo.svg" alt="Vulkan" width="50"/>
-    <img src="images/visual-studio-logo.svg" alt="Visual Studio" width="50"/>
-    <img src="images/nsight-graphics-logo.png" alt="Nsight Graphics" width="50"/>
-    <img src="images/renderdoc-logo.svg" alt="Render Doc" width="50"/>
-    <img src="images/git-logo.svg" alt="Git" width="50"/>
-    <img src="images/cmake-logo.svg" alt="CMake" width="50"/>
-    <img src="images/blender-logo.svg" alt="Blender" width="50"/>
+    <a href="https://en.cppreference.com/w/"><img src="images/cpp-logo.svg" alt="C++" width="50"/></a>
+    <a href="https://www.khronos.org/vulkan/"><img src="images/vulkan-logo.svg" alt="Vulkan" width="50"/></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="images/visual-studio-logo.svg" alt="Visual Studio" width="50"/></a>
+    <a href="https://developer.nvidia.com/nsight-graphics"><img src="images/nsight-graphics-logo.png" alt="Nsight Graphics" width="50"/></a>
+    <a href="https://renderdoc.org/"><img src="images/renderdoc-logo.svg" alt="Render Doc" width="50"/></a>
+    <a href="https://git-scm.com/"><img src="images/git-logo.svg" alt="Git" width="50"/></a>
+    <a href="https://cmake.org/"><img src="images/cmake-logo.svg" alt="CMake" width="50"/></a>
+    <a href="https://www.blender.org/"><img src="images/blender-logo.svg" alt="Blender" width="50"/></a>
 </div>
