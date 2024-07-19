@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm a passionate graphics programmer with a special interest in ray tracing :bulb:. I thrive on pushing the boundaries of visual fidelity and exploring the cutting-edge possibilities of rendering technologies :mag:.
+I'm a passionate graphics programmer with a special interest in ray tracing. I thrive on pushing the boundaries of visual fidelity and exploring the cutting-edge possibilities of rendering technologies :mag:.
 
 ### My Primary Toolchain :hammer_and_wrench:
 
