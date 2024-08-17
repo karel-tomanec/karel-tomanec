@@ -11,6 +11,5 @@ I'm a passionate graphics programmer with a special interest in ray tracing. I t
     <a href="https://developer.nvidia.com/nsight-graphics"><img src="images/nsight-graphics-logo.png" alt="Nsight Graphics" width="50"/></a>
     <a href="https://renderdoc.org/"><img src="images/renderdoc-logo.svg" alt="Render Doc" width="50"/></a>
     <a href="https://git-scm.com/"><img src="images/git-logo.svg" alt="Git" width="50"/></a>
-    <a href="https://cmake.org/"><img src="images/cmake-logo.svg" alt="CMake" width="50"/></a>
     <a href="https://www.blender.org/"><img src="images/blender-logo.svg" alt="Blender" width="50"/></a>
 </div>
