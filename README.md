@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile!
 
-I'm a dedicated developer with a deep passion for computer graphics, driven by the challenge of solving rendering problems. My passion for computer graphics began during my bachelor studies, where I first encountered the field, and over time, my interest has evolved, particularly in the area of ray tracing :mag:.
+I'm a dedicated developer with a deep passion for computer graphics, driven by the challenge of solving rendering problems. My passion for computer graphics began during my bachelor studies, where I first encountered the field, and over time, my interest has evolved, particularly in the area of ray tracing :bulb:.
 
 ### My Primary Toolchain :hammer_and_wrench:
 
